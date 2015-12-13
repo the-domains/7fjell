@@ -1,14 +1,26 @@
-layout_spectrum: 0.9820188
 color:
   saturation: 0.4181228
   brandStrength: 0.1473855
-  lightness: 0.08510314
+  rhythmicContrast: 0.3906766
   brandColors:
     - '#FFFFFF'
     - '#929398'
     - '#231F20'
     - '#007AFF'
     - '#7EC9DF'
-  rhythmicContrast: 0.3906766
+  lightness: 0.08510314
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9820188
 typography_spectrum: 0.3417209
 name: 7fjell
