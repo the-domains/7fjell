@@ -1,0 +1,14 @@
+layout_spectrum: 0.9820188
+color:
+  saturation: 0.4181228
+  brandStrength: 0.1473855
+  lightness: 0.08510314
+  brandColors:
+    - '#FFFFFF'
+    - '#929398'
+    - '#231F20'
+    - '#007AFF'
+    - '#7EC9DF'
+  rhythmicContrast: 0.3906766
+typography_spectrum: 0.3417209
+name: 7fjell
