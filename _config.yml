@@ -1,7 +1,7 @@
 name: 7fjell
 favicon: null
-layout_spectrum: 0.9820188
-typography_spectrum: 0.3417209
+layout_spectrum: 0.26504
+typography_spectrum: 0
 collections:
   - index:
       path: /
@@ -33,8 +33,8 @@ color:
     - '#231F20'
     - '#007AFF'
     - '#7EC9DF'
-  brandStrength: 0.1473855
+  brandStrength: 1
   lightness: 0.08510314
-  saturation: 0.4181228
+  saturation: 0.5
   rhythmicContrast: 0.3906766
 purpose: []
